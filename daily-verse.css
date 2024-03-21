@@ -1,0 +1,21 @@
+#daily-verse {
+    float: right;
+    padding: 5px 10px;
+    margin: 0;
+    font-size: 12px;
+    line-height: 1.6666;
+}
+.rtl #daily-verse  {
+    float: left;
+}
+.block-editor-page #daily-verse  {
+    display: none;
+}
+@media screen and (max-width: 782px) {
+    #daily-verse ,
+    .rtl #daily-verse  {
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
