@@ -1,27 +1,102 @@
 [
-    "Trust in the LORD with all your heart and lean not on your own understanding; Proverbs 3:5",
-    "A gentle answer turns away wrath, but a harsh word stirs up anger; Proverbs 15:1",
-    "Pride goes before destruction, a haughty spirit before a fall; Proverbs 16:18",
-    "A cheerful heart is good medicine, but a crushed spirit dries up the bones; Proverbs 17:22",
-    "A friend loves at all times, and a brother is born for a time of adversity; Proverbs 17:17",
-    "Commit to the LORD whatever you do, and he will establish your plans; Proverbs 16:3",
-    "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction; Proverbs 1:7",
-    "Better a little with righteousness than much gain with injustice; Proverbs 16:8",
-    "In all your ways acknowledge Him, and He will make your paths straight; Proverbs 3:6",
-    "Whoever pursues righteousness and love finds life, prosperity, and honor; Proverbs 21:21",
-    "The tongue of the wise adorns knowledge, but the mouth of the fool gushes folly; Proverbs 15:2",
-    "Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue; Proverbs 17:28",
-    "The path of the righteous is like the morning sun, shining ever brighter till the full light of day; Proverbs 4:18",
-    "As iron sharpens iron, so one person sharpens another; Proverbs 27:17",
-    "A gentle tongue is a tree of life, but perverseness in it breaks the spirit; Proverbs 15:4",
-    "A man's heart plans his way, but the LORD directs his steps; Proverbs 16:9",
-    "He who walks with the wise grows wise, but a companion of fools suffers harm; Proverbs 13:20",
-    "The name of the LORD is a fortified tower; the righteous run to it and are safe; Proverbs 18:10",
-    "A happy heart makes the face cheerful, but heartache crushes the spirit; Proverbs 15:13",
-    "A person finds joy in giving an apt reply\u2014and how good is a timely word! Proverbs 15:23",
-    "The eyes of the LORD are everywhere, keeping watch on the wicked and the good; Proverbs 15:3",
-    "A fool's mouth lashes out with pride, but the lips of the wise protect them; Proverbs 14:3",
-    "Whoever is patient has great understanding, but one who is quick-tempered displays folly; Proverbs 14:29",
-    "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil; Proverbs 15:28",
-    "Gracious words are a honeycomb, sweet to the soul and healing to the bones; Proverbs 16:24"
+    {
+        "en_US": "Trust in the LORD with all your heart and lean not on your own understanding; Proverbs 3:5",
+        "es_ES": "Conf\u00eda en el SE\u00d1OR con todo tu coraz\u00f3n y no te apoyes en tu propia prudencia; Proverbios 3:5"
+    },
+    {
+        "en_US": "A gentle answer turns away wrath, but a harsh word stirs up anger; Proverbs 15:1",
+        "es_ES": "La respuesta suave aparta el furor, pero la palabra hiriente hace subir la ira; Proverbios 15:1"
+    },
+    {
+        "en_US": "Pride goes before destruction, a haughty spirit before a fall; Proverbs 16:18",
+        "es_ES": "La soberbia precede a la destrucci\u00f3n, y la altivez del esp\u00edritu precede a la ca\u00edda; Proverbios 16:18"
+    },
+    {
+        "en_US": "A cheerful heart is good medicine, but a crushed spirit dries up the bones; Proverbs 17:22",
+        "es_ES": "El coraz\u00f3n alegre es buena medicina, pero el esp\u00edritu abatido seca los huesos; Proverbios 17:22"
+    },
+    {
+        "en_US": "A friend loves at all times, and a brother is born for a time of adversity; Proverbs 17:17",
+        "es_ES": "El amigo ama en todo momento, y es un hermano en tiempos de adversidad; Proverbios 17:17"
+    },
+    {
+        "en_US": "Commit to the LORD whatever you do, and he will establish your plans; Proverbs 16:3",
+        "es_ES": "Encomienda al SE\u00d1OR tus obras, y tus pensamientos ser\u00e1n afirmados; Proverbios 16:3"
+    },
+    {
+        "en_US": "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and instruction; Proverbs 1:7",
+        "es_ES": "El temor del SE\u00d1OR es el principio de la sabidur\u00eda, y los necios desprecian la sabidur\u00eda y la ense\u00f1anza; Proverbios 1:7"
+    },
+    {
+        "en_US": "Better a little with righteousness than much gain with injustice; Proverbs 16:8",
+        "es_ES": "Mejor es lo poco con justicia que la abundancia de ganancias sin derecho; Proverbios 16:8"
+    },
+    {
+        "en_US": "In all your ways acknowledge Him, and He will make your paths straight; Proverbs 3:6",
+        "es_ES": "Recon\u00f3celo en todos tus caminos, y \u00e9l enderezar\u00e1 tus veredas; Proverbios 3:6"
+    },
+    {
+        "en_US": "Whoever pursues righteousness and love finds life, prosperity, and honor; Proverbs 21:21",
+        "es_ES": "El que sigue la justicia y la misericordia hallar\u00e1 vida, justicia y honor; Proverbios 21:21"
+    },
+    {
+        "en_US": "The tongue of the wise adorns knowledge, but the mouth of the fool gushes folly; Proverbs 15:2",
+        "es_ES": "La lengua de los sabios adorna el conocimiento, pero la boca de los necios derrama necedad; Proverbios 15:2"
+    },
+    {
+        "en_US": "Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue; Proverbs 17:28",
+        "es_ES": "Aun el necio, cuando calla, es contado por sabio; cuando cierra sus labios, por entendido; Proverbios 17:28"
+    },
+    {
+        "en_US": "The path of the righteous is like the morning sun, shining ever brighter till the full light of day; Proverbs 4:18",
+        "es_ES": "La senda de los justos es como la luz de la aurora, que va en aumento hasta que el d\u00eda es perfecto; Proverbios 4:18"
+    },
+    {
+        "en_US": "As iron sharpens iron, so one person sharpens another; Proverbs 27:17",
+        "es_ES": "Hierro con hierro se aguza; y as\u00ed el hombre aguza el rostro de su amigo; Proverbios 27:17"
+    },
+    {
+        "en_US": "A gentle tongue is a tree of life, but perverseness in it breaks the spirit; Proverbs 15:4",
+        "es_ES": "La lengua suave es \u00e1rbol de vida, pero la perversidad en ella es quebrantamiento de esp\u00edritu; Proverbios 15:4"
+    },
+    {
+        "en_US": "A man's heart plans his way, but the LORD directs his steps; Proverbs 16:9",
+        "es_ES": "El coraz\u00f3n del hombre piensa su camino, pero el SE\u00d1OR dirige sus pasos; Proverbios 16:9"
+    },
+    {
+        "en_US": "He who walks with the wise grows wise, but a companion of fools suffers harm; Proverbs 13:20",
+        "es_ES": "El que anda con sabios, sabio ser\u00e1; mas el compa\u00f1ero de necios ser\u00e1 quebrantado; Proverbios 13:20"
+    },
+    {
+        "en_US": "The name of the LORD is a fortified tower; the righteous run to it and are safe; Proverbs 18:10",
+        "es_ES": "El nombre del SE\u00d1OR es torre fuerte; el justo corre a ella y est\u00e1 seguro; Proverbios 18:10"
+    },
+    {
+        "en_US": "A happy heart makes the face cheerful, but heartache crushes the spirit; Proverbs 15:13",
+        "es_ES": "El coraz\u00f3n alegre constituye buen remedio; mas el esp\u00edritu triste seca los huesos; Proverbios 15:13"
+    },
+    {
+        "en_US": "A person finds joy in giving an apt reply\u2014and how good is a timely word! Proverbs 15:23",
+        "es_ES": "El hombre se alegra con la respuesta de su boca; y la palabra a su tiempo, \u00a1cu\u00e1n buena es!; Proverbios 15:23"
+    },
+    {
+        "en_US": "The eyes of the LORD are everywhere, keeping watch on the wicked and the good; Proverbs 15:3",
+        "es_ES": "Los ojos del SE\u00d1OR est\u00e1n en todo lugar, mirando a los malos y a los buenos; Proverbios 15:3"
+    },
+    {
+        "en_US": "A fool's mouth lashes out with pride, but the lips of the wise protect them; Proverbs 14:3",
+        "es_ES": "La boca del necio es su destrucci\u00f3n, y sus labios son lazos para su alma; Proverbios 14:3"
+    },
+    {
+        "en_US": "Whoever is patient has great understanding, but one who is quick-tempered displays folly; Proverbs 14:29",
+        "es_ES": "El lento para la ira tiene gran entendimiento; pero el de esp\u00edritu impaciente exalta la necedad; Proverbios 14:29"
+    },
+    {
+        "en_US": "The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil; Proverbs 15:28",
+        "es_ES": "El coraz\u00f3n del justo medita para responder; mas la boca de los imp\u00edos derrama males; Proverbios 15:28"
+    },
+    {
+        "en_US": "Gracious words are a honeycomb, sweet to the soul and healing to the bones; Proverbs 16:24",
+        "es_ES": "Panal de miel son las palabras suaves; dulces al alma y salud para los huesos; Proverbios 16:24"
+    }
 ]

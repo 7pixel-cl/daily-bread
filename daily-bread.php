@@ -30,8 +30,20 @@ function daily_bread_get_verse() {
         return '';
     }
 
-    // And then randomly choose a line
-    return $proverbs[mt_rand(0, count($proverbs) - 1)];
+	// Get the WordPress locale
+	$locale = get_locale();
+
+    // Randomly choose a proverb
+    $chosen_proverb = $proverbs[mt_rand(0, count($proverbs) - 1)];
+    
+	// Return the verse in the chosen language
+	if (isset($chosen_proverb[$locale])) {
+		// The locale exists, return the verse in the chosen language
+		return $chosen_proverb[$locale];
+	} else {
+		// The locale doesn't exist, return the verse in English
+		return $chosen_proverb['en_US'];
+	}
 }
 
 function daily_bread() {
@@ -42,7 +54,7 @@ function daily_bread() {
     }
 
     printf(
-        '<p id="daily-verse "><span class="screen-reader-text">%s </span><span dir="ltr"%s>%s</span></p>',
+        '<p id="daily-verse"><span class="screen-reader-text">%s </span><span dir="ltr"%s>%s</span></p>',
         __( 'Quote from proverbs, by Marco Alvarado:', 'daily-verse' ),
         $lang,
         $chosen
